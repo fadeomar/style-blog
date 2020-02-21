@@ -1,0 +1,17 @@
+---
+templateKey: advisory-post
+title: avisory test
+date: 2020-02-21T21:50:58.087Z
+description: '* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd*'
+featuredimage: /img/blog-index.jpg
+---
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+* sadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
+
+
+
+sadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasdsadasdasdasdasd
