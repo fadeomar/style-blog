@@ -1,3 +1,10 @@
 import React from "react";
 
-export default () => <h1>testing </h1>;
+export default props => {
+  console.log("rrrrrrrrrrr", props);
+  return (
+    <h1>
+      testingtestingtestingtestingtestingtestingtestingtestingtestingtesting{" "}
+    </h1>
+  );
+};
